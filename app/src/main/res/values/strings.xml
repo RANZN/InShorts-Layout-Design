@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InShorts Layout Design</string>
+    <string name="string">Your smoke is also bad for other people - they breathe in your smoke secondhand and can get many of the same problems as smokers do. This includes heart disease and lung cancer. Children exposed to secondhand smoke have a higher risk of ear infections, colds, pneumonia, bronchitis, and more severe asthma. Mothers who breathe secondhand smoke while pregnant are more likely to have preterm labor and babies with low birth weight.</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
